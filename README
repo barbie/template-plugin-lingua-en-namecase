@@ -1,5 +1,5 @@
 Template-Plugin-Lingua-EN-NameCase
-===================================
+==================================
 
 The Lingua::EN::NameCase Template Toolkit plugin is an interface to the 
 Lingua::EN::NameCase module, which translates fractional number values into 

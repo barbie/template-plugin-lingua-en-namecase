@@ -15,15 +15,15 @@ WriteMakefile(
     PREREQ_PM => {
 
         # prereqs
-        'Template'                          => '2.07',
-        'Template::Plugin'                  => '2.07',
-        'Template::Stash'                   => '2.07',
-        'Lingua::EN::NameCase'             => '0',
+        'Template'              => '2.07',
+        'Template::Plugin'      => '2.07',
+        'Template::Stash'       => '2.07',
+        'Lingua::EN::NameCase'  => '0',
 
         # for testing
-        'IO::File'                          => '0',
-        'Template::Test'                    => '2.07',
-        'Test::More'                        => '0.70'
+        'IO::File'              => '0',
+        'Template::Test'        => '2.07',
+        'Test::More'            => '0.70'
 
     },
 );
