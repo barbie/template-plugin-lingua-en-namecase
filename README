@@ -20,7 +20,7 @@ This module requires these modules:
 
   Template
   Template::Plugin
-  Lingua-EN-NameCase
+  Lingua::EN::NameCase
 
 For testing the module requires these modules:
 
