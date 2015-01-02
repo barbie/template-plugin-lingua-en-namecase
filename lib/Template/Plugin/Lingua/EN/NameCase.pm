@@ -69,15 +69,6 @@ L<Lingua::EN::NameCase>, L<Template>, C<Template::Plugin>
 
   Barbie <barbie@cpan.org>  2014
 
-=head1 ACKNOWLEDGEMENTS
-
-Andrew Ford for writing Template::Plugin::Lingua::EN::Inflect, which inspired
-this module.
-
-Neil Bowers for creating Lingua::EN::NameCase, and giving me the idea to add 
-another distribution to my new Template Toolkit plugins collection, which I've
-recently taken over from Andrew Ford.
-
 =head1 COPYRIGHT & LICENSE
 
 Copyright (C) 2014      Barbie for Miss Barbell Productions.
