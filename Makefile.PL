@@ -8,7 +8,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     AUTHOR              => 'Barbie <barbie@cpan.org>',
-    NAME                => 'Template-Plugin-Lingua::EN::NameCase',
+    NAME                => 'Template::Plugin::Lingua::EN::NameCase',
     VERSION_FROM        => 'lib/Template/Plugin/Lingua/EN/NameCase.pm',
     ABSTRACT            => 'TT2 interface to Lingua::EN::NameCase module',
     NO_META             => 1,
