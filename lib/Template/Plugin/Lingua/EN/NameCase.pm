@@ -71,7 +71,7 @@ L<Lingua::EN::NameCase>, L<Template>, C<Template::Plugin>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright (C) 2014      Barbie for Miss Barbell Productions.
+Copyright (C) 2014-2015 Barbie for Miss Barbell Productions.
 
 This distribution is free software; you can redistribute it and/or
 modify it under the Artistic Licence v2.
