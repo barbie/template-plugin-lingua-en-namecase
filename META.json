@@ -1,6 +1,6 @@
 {
     "name": "Template-Plugin-Lingua-EN-NameCase",
-    "version": "0.01",
+    "version": "0.02",
     "abstract": "TT2 interface to Lingua::EN::NameCase module",
     "author": [
         "Barbie (BARBIE) <barbie@cpan.org>"
@@ -48,7 +48,7 @@
     "provides": {
         "Template::Plugin::Lingua::EN::NameCase": {
             "file": "lib/Template/Plugin/Lingua/EN/NameCase.pm",
-            "version": "0.01"
+            "version": "0.02"
         }
     },
     "no_index": {
